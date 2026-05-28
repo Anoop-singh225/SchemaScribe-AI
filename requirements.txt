@@ -2,5 +2,6 @@ fastapi
 uvicorn
 pandas
 python-multipart
-groq
+requests
 python-dotenv
+pydantic
